@@ -17,7 +17,8 @@ cities={
         }
 
 for city,cityInfo in cities.items():
-    print('\n'+'The information of '+city+' are:')
-    for infoTitle,info in cityInfo.items():
-        print('\t'+infoTitle.title()+': '+info)
+    print('\n'+'Tell me something about '+city+'!')    
+    print(city+' is in '+cityInfo['country']+'.')
+    print('The population of '+city+'is about '+cityInfo['population']+'.')
+    print(city+' ' +cityInfo['fact'])
     
