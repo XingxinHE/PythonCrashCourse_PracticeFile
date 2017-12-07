@@ -1,0 +1,5 @@
+In Python, Beautiful is better than ugly.
+In Python, Explicit is better than implicit.
+In Python, Simple is better than complex.
+In Python, Complex is better than complicated.
+In Python, Readability counts.
